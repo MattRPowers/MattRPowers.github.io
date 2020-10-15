@@ -3,7 +3,7 @@
 I am a student at Umass Amherst who has been working on theater and art all my life. 
 
 I have been in over a handful of plays, all being given main male leads.
-### The Crucib
+### The Crucible
 
 # Images
 
@@ -31,7 +31,9 @@ The Crucible by Arthur Miller was my most recent play in senior year of high sch
 3. Arsenic And Old Lace - Mortimer Brewster
 4. Wizard Of Oz - Scarecrow
 5. Just In The Nick Of Time - Red Mistletoe
-6/7/8. Dinner Theater murder mysteries
+6. Dinner Theater murder mystery - Main host
+7. Dinner Theater Murder mystery - Drunk detetive Jack
+8. Southern Fried Murder - Main detective
 9. Harvey - Elwood P. Dowd (Cast but coronavirus shut down the play before production)
 10. Pirate Island - Captain Peach
 11. Small skits performed for elementary students
