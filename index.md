@@ -3,12 +3,10 @@
 I am a student at Umass Amherst who has been working on theater and art all my life. 
 
 I have been in over a handful of plays, all being given main male leads.
-### Markdown
+### The Crucible
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Crucible by Arthur Miller was my most recent play in senior year of high school where I played _John Proctor_. 
 
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
