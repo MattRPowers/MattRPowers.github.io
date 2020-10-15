@@ -3,32 +3,51 @@
 I am a student at Umass Amherst who has been working on theater and art all my life. 
 
 I have been in over a handful of plays, all being given main male leads.
-### The Crucible
+### The Crucib
+
+# Images
 
 The Crucible by Arthur Miller was my most recent play in senior year of high school where I played _John Proctor_. 
 
+[![image](https://user-images.githubusercontent.com/72901479/96076269-ef636680-0e7a-11eb-9bfb-210870b54113.png)
+](url)
 
-# Header 1
-## Header 2
-### Header 3
+[![image](https://user-images.githubusercontent.com/72901479/96076112-8f6cc000-0e7a-11eb-8853-a518adbcc006.png)
+](url)
 
-- Bulleted
-- List
+[![image](https://user-images.githubusercontent.com/72901479/96076176-b0cdac00-0e7a-11eb-88d2-3088bbd25e27.png)
+](url)
 
-1. Numbered
-2. List
+[![image](https://user-images.githubusercontent.com/72901479/96076219-cb078a00-0e7a-11eb-8d81-66f24db55b22.png)
+](url)
 
-**Bold** and _Italic_ and `Code` text
+[![image](https://user-images.githubusercontent.com/72901479/96076249-df4b8700-0e7a-11eb-8847-97fb34180783.png)
+](url)
 
-[Link](url) and ![Image](src)
-```
+## Plays
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. The Crucible - John Proctor
+2. Hairspray - Link Larkin
+3. Arsenic And Old Lace - Mortimer Brewster
+4. Wizard Of Oz - Scarecrow
+5. Just In The Nick Of Time - Red Mistletoe
+6/7/8. Dinner Theater murder mysteries
+9. Harvey - Elwood P. Dowd (Cast but coronavirus shut down the play before production)
+10. Pirate Island - Captain Peach
+11. Small skits performed for elementary students
 
-### Jekyll Themes
+## Interest In Photography
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MattRPowers/MattRPowers.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Mountain Cropped](https://user-images.githubusercontent.com/72901479/96077379-a660e180-0e7d-11eb-99aa-e4611e3bfecd.jpg)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Sculpting
+
+I have recently started sculpting in blender and here is my first project
+
+![Screenshot (14)](https://user-images.githubusercontent.com/72901479/96076810-3d2c9e80-0e7c-11eb-91be-01cce4f6529b.png)
+
+
+### Contact
+
+My email to chat is matrpowers@umass.edu
